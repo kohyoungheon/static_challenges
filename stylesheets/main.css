@@ -1,0 +1,100 @@
+
+header{
+  position: relative;
+  background-color: darkred;
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 15px;
+  padding-left: 20px;
+  white-space: nowrap;
+}
+
+h1{
+  font: bold 35px Arial, serif;
+  display: inline;
+}
+
+span{
+  position: relative;
+  margin-left: 75%;
+  font: 16px Arial, serif;
+  text-decoration-line: underline;
+  bottom: 5px;
+}
+
+nav{
+  background-color: rgb(60,60,60);
+  padding: 20px;
+  color: white;
+  font: 16px Arial, serif;
+}
+ul{
+  display: inline;
+  margin-left: 85%;
+  white-space: nowrap;
+}
+
+li{
+  padding: 0px 8px;
+  display: inline-block;
+  text-decoration-line: underline;
+}
+
+img{
+  max-width: 70%;
+  padding-left: 15%;
+  padding-bottom: 15%;
+}
+
+h3{
+  padding-left: 15%;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  font: bold 18px Arial, serif;
+}
+
+#img1{
+  max-width: 100%;
+  height: auto;
+  padding-left: 15px;
+  padding-top: 20px;
+  padding-bottom: 2%;
+}
+
+h2{
+  padding-left: 4%;
+  padding-top: 1%;
+  font: bold 25px Arial, serif;
+}
+
+#para1{
+  padding-left: 4%;
+}
+
+#left{
+  float: left;
+  width: 70%;
+  
+}
+
+#right{
+  float: left;
+  width: 30%;
+}
+
+div{
+  display: table;
+}
+
+aside{
+  padding-left: 10%;
+  padding-top: 5%;
+}
+
+footer{
+  display: inline-block;
+  background-color: rgb(60,60,60);
+  padding: 18px;
+  font:  14px Arial, serif;
+  color: white;
+}
